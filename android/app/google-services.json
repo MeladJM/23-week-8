@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034472593863",
+    "project_id": "data-persistence-4ea67",
+    "storage_bucket": "data-persistence-4ea67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034472593863:android:e0661413469c213fffe1e2",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSirB7OzER7A_rXJeAv_dZfRP7bXoh11g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
